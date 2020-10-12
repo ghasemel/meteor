@@ -1,2 +1,2 @@
-# A simple project in meteor
+# how to use meteor 
 [link](https://www.meteor.com/)
